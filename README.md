@@ -44,8 +44,8 @@ An interactive Power BI dashboard was created to showcase:
 - **JIRA Training** – Project management in Big Data environments.
 
 ## 📂 Project Resources
-- 📊 **Power BI Dashboard & Reports**
-- 📜 **Project Summary Report**
+- 📊 **Power BI Dashboard & Reports:** [Google Drive Link](https://drive.google.com/drive/folders/1L9aZgZ7Oqijp3GywZM0_lVDtUmUON0E_?usp=drive_link)
+- 📜 **Project Summary Report:** [PDF Report](https://drive.google.com/file/d/1ikAwnxa7AuNOCrMOF0YTvmBgPKOi_BnK/view?usp=drive_link)
 - **Pyspark Code**
 
 
